@@ -15,6 +15,8 @@ En este repositorio se explican los comandos mas comunes en la terminal.
 
 # Comandos Github
 
-- Clonar un repositorio a tu terminal.
+- **git clone** Clonar un repositorio a tu terminal.
   
 ``` git clone <url> ```
+- **git status** Checar como esta tu repositorio local.
+  ´´´git status´´´
