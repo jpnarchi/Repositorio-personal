@@ -46,4 +46,4 @@ En este repositorio se explican los comandos mas comunes en la terminal.
 
 ## Imagen
 
-![Mr.Robot](descarga.jpeg){width=100px height=100px}
+![Mr.Robot](descarga.jpeg)
