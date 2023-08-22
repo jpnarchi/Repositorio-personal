@@ -32,3 +32,6 @@ En este repositorio se explican los comandos mas comunes en la terminal.
 - **git status** Checar como esta tu repositorio local.
   
 ```git status```
+- **git commit** Guardar los cambios en el repositorio
+  
+```git commit -m "message"```
