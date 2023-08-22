@@ -44,3 +44,6 @@ En este repositorio se explican los comandos mas comunes en la terminal.
   
 ```git add "tuarchivo"```
 
+## Imagen
+
+![Mr.Robot](descarga.jpeg){width=100px height=100px}
