@@ -39,3 +39,8 @@ En este repositorio se explican los comandos mas comunes en la terminal.
 - **git push** Enviar los cambios locales al repositorio.
   
 ```git push origin main```
+
+- **git add** Agregar archivo.
+  
+```git add "tuarchivo"```
+
