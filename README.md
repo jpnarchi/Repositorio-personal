@@ -47,4 +47,6 @@ En este repositorio se explican los comandos mas comunes en la terminal.
 ## Imagen
 
 ```![Descripcion de tu imiagen](ruta/relativa/a/tu/imagen.jpeg)```
+
+
 ![Mr.Robot](descarga.jpeg)
