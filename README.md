@@ -20,4 +20,4 @@ En este repositorio se explican los comandos mas comunes en la terminal.
 ``` git clone <url> ```
 - **git status** Checar como esta tu repositorio local.
   
-´´´git status´´´
+```git status```
