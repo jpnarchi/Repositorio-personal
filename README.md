@@ -15,4 +15,4 @@ En este repositorio se explican los comandos mas comunes en la terminal.
 
 # Comandos Github
 
-''' git clone <url>'''
+``` git clone <url> ```
